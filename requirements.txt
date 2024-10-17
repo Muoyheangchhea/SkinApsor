@@ -3,13 +3,9 @@ werkzeug
 roboflow
 supervision
 inference-sdk
-opencv-python
 pandas
 joblib
 Pillow
-db-sqlite3
-uuid
-pybase64
 opencv-python
-Python-IO
 scikit-learn
+inference-sdk
